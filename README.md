@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> xxxxx 共学 </h1>
+  <h1> Tauri 共学 </h1>
 
  <p> xxxxx  的目标是 xxx， 学习 xxxx  可以 xxxxx 。</p>
 
