@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Tauri 共学 </h1>
 
-  <p> xxxxx  的目标是 xxx， 学习 xxxx  可以 xxxxx 。</p>
+  <p> xxxxx  的目标是 xxx， 学习 xxxx  可以 xxxxx , 。</p>
 
   
   <h2>什么是 Tauri？</h2>
